@@ -1,0 +1,103 @@
+{
+	"id": "a383e99d-3d8e-4fe3-96d6-7b0269295926",
+	"createdAt": "2023-02-09T17:51:24.483Z",
+	"createdBy": "SDharawa",
+	"objects": [
+		{
+			"fieldNo": "cac6cb07-a6a9-4fca-da2d-d545077e5d5a",
+			"fieldName": "oApp",
+			"fieldParent": 0,
+			"fieldType": "sap.m.App",
+			"script": "",
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "f8325389-c366-474d-861f-243a6eb9b1b8",
+					"fieldName": "oPage",
+					"fieldParent": "cac6cb07-a6a9-4fca-da2d-d545077e5d5a",
+					"fieldType": "sap.m.Page",
+					"script": "",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": [
+						{
+							"fieldNo": "505c544f-a8f5-43da-fbcc-1a7c0b7b5d1e",
+							"fieldName": "oLabel",
+							"fieldParent": "f8325389-c366-474d-861f-243a6eb9b1b8",
+							"fieldType": "sap.m.Label",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Product",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "8da6f8cb-8e53-4a93-e904-9a9c321c8637",
+							"fieldName": "oInput",
+							"fieldParent": "f8325389-c366-474d-861f-243a6eb9b1b8",
+							"fieldType": "sap.m.Input",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"ver": "23.2.9.1251",
+	"application": "cicd_app",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_fiori_3",
+	"ui5_version": "",
+	"ui5_language": null,
+	"cus_theme": "",
+	"css": "",
+	"header": "",
+	"manifest": "",
+	"globalScript": "",
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"apis": [],
+	"package": "0174ee7c-993e-426b-84a8-a3ddf66d2ebe"
+}
